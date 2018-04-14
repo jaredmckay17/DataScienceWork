@@ -1,3 +1,5 @@
+# Extrapolating inferences from FiveThirtyEight project on Gun Deaths in America, utilizing data from here https://github.com/fivethirtyeight/guns-data
+
 year_counts = dict()
 for year in years:
     if year in year_counts:
